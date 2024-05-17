@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="overflow-x-auto shadow-md">
-        <table class="table table-pin-rows table-pin-cols border-collapse border border-yellow-500">
+        <table class="table table-pin-rows table-pin-cols border-collapse border border-yellow-500 fo-bold">
             <thead>
                 <tr>
                     <th class="border border-yellow-600">No</th>
